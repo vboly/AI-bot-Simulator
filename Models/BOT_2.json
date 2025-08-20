@@ -1,0 +1,9 @@
+{
+    "type": "Student",
+    "name": "Bob",
+    "properties": {
+        "Curious": [
+            "Asks alot of questions"
+        ]
+    }
+}

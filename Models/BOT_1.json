@@ -1,0 +1,9 @@
+{
+    "type": "Professor",
+    "name": "Alice",
+    "properties": {
+        "Assistant": [
+            " likes to help people"
+        ]
+    }
+}
